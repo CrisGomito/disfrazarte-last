@@ -16,9 +16,9 @@ Complete system for wardrobe rental and event management. Created with dedicatio
 ☑️ One-to-many entity relationships and vice versa.\
 ☑️ Register multiple events for the same date with costumes and users.
 
-## Based on this video:
+## Based on this YT channel:
 
-https://www.youtube.com/watch?v=AgJMFhxvA40
+https://youtube.com/@anthonyzabs?si=udlFy4Ajjron-SKz
 
 ## Getting Started
 Import the java project in your preferred IDE and import the database. Just edit the class `Database.java` with your database connection credentials.\
