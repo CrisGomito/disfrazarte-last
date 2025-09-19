@@ -15,6 +15,7 @@ Complete system for wardrobe rental and event management. Created with dedicatio
 ☑️ Assignments, costume and user reservations.\
 ☑️ One-to-many entity relationships and vice versa.\
 ☑️ Register multiple events for the same date with costumes and users.
+☑️ Register multiple events for the same date with costumes and users.
 
 ## Based on this video:
 
