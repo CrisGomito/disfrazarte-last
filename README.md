@@ -10,7 +10,7 @@ Complete system for wardrobe rental and event management. Created with dedicatio
 ☑️ Reports.\
 ☑️ Movement logs.\
 ☑️ Lookup tables.\
-☑️ DAO Pattern.
+☑️ DAO Pattern.\
 ☑️ Interactive event calendar.\
 ☑️ Assignments, costume and user reservations.\
 ☑️ One-to-many entity relationships and vice versa.\
@@ -21,5 +21,5 @@ Complete system for wardrobe rental and event management. Created with dedicatio
 https://www.youtube.com/watch?v=AgJMFhxvA40
 
 ## Getting Started
-Import the java project in your preferred IDE and import the database. Just edit the class `Database.java` with your database connection credentials.
+Import the java project in your preferred IDE and import the database. Just edit the class `Database.java` with your database connection credentials.\
 If any dependency issues arise, install the accompanying JARs into the project.
